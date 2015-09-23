@@ -1,0 +1,77 @@
+{
+    "cName": "点点",
+    "id": 111214033,
+    "info_user_base": [
+        {
+			"cPwd": "2453",
+			"cTel": "13052585162",
+            "cEmail": "12345helihua@sina.com",
+
+
+			"cType": 1,
+            "cCity": 1,
+			"nSex": 1,
+            "nAge": 22,
+
+
+			"nWeight": 48,
+			"nHeight": 155,
+			"blobPicture": "blobPic",
+            "textProfile": "这是备注"
+        }
+    ],
+
+
+    "info_user_player": [
+        {
+			"nLevel": 1,
+			"nSimilarStar": 1,
+			"cNickName": "小王子",
+
+
+			"nTeam": 1,
+            "bIsLeader": "true",
+			"nFieldPos": 1,
+			"nBackNo": 12,
+
+
+			"nStatus": 1,
+            "nMatchTotal": 1,
+            "fAttendPercent": 11,
+			"textProfile": "这是备注"
+        }
+    ],
+
+
+
+
+	"info_user_ability": [
+        {
+            "nAttack": 11,
+			"nDefense": 11,
+			"nSpeed": 11,
+			"nPower": 11,
+
+
+			"nTechnology": 11,
+			"nStamina": 11,
+			"nTeamwork": 12,
+			"nPassing": 11,
+
+
+			"nCompetition": 11,
+			"nShooting": 11,
+            "nShortPass": 11,
+			"nLongPass": 11,
+
+            "nCrarrying": 11,
+            "nHeading": 11,
+			"nSkillful": 11,
+			"nCombat": 11,
+
+            "nInverse": 11,
+			"nStateHolding": 11,
+            "textProfile": "这是备注"
+        }
+    ]
+}
